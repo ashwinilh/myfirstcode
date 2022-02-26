@@ -1,0 +1,46 @@
+body {
+    background-color: #bdc3c7;
+}
+h1 {
+    color: #9b59b6;
+}
+h2 {
+    color: orange;
+}
+li {
+    color: #2040fa;
+}
+p {
+    background: yellow;
+}
+input {
+    border: 3px red solid;
+}
+.hello {
+    background: white;
+}
+#special {
+    border: 2px rgb(010, 080, 222) solid;
+}
+div p {
+    font-size: 25px;
+}
+input[type="text"] {
+    background: gray;
+}
+div:nth-of-type(3) p {
+    background: pink;
+}
+div:nth-of-type(3) p:nth-of-type(2){
+    border: 5px white solid
+}
+input[type="checkbox"]:checked{
+    margin-left: 50px;
+}
+label{
+    text-transform: uppercase;
+}
+#special::first-letter{
+    color: green;
+    font-size: 100px;
+}

@@ -1,0 +1,6 @@
+<html>
+<body>
+<H1>Heading1</H1>
+<H2>Heading2</H2>
+</body>
+</html>
